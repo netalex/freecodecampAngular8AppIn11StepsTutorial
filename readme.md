@@ -14,4 +14,5 @@
 *  Step 4 — Creating UI Components
 *  Step 5 — Adding Routing
 *  Step 6 — Adding Angular Material
+*  Step 7 — Mocking a REST API
 
