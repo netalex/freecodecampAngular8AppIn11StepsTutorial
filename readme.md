@@ -10,3 +10,5 @@
 * step 2 - create app
     * name fcpAng11Step
     `ng new fcpAng11Step`
+* step 3 - Adding Angular HttpClient
+*  Step 4 — Creating UI Components
