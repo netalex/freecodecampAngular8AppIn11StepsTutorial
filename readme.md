@@ -12,3 +12,5 @@
     `ng new fcpAng11Step`
 * step 3 - Adding Angular HttpClient
 *  Step 4 — Creating UI Components
+*  Step 5 — Adding Routing
+
