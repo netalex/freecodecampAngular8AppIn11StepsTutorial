@@ -19,5 +19,7 @@
    *  `ng g service api`
    *  import http client
 *  Step 9 — Adding Error Handling
+*  Step 10 — Adding Pagination
+   *  need some code from https://alligator.io/angular/takeuntil-rxjs-unsubscribe/
 
 
