@@ -18,4 +18,6 @@
 *  Step 8 — Creating a Service for Consuming the REST API
    *  `ng g service api`
    *  import http client
+*  Step 9 — Adding Error Handling
+
 
