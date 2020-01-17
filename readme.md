@@ -15,4 +15,7 @@
 *  Step 5 — Adding Routing
 *  Step 6 — Adding Angular Material
 *  Step 7 — Mocking a REST API
+*  Step 8 — Creating a Service for Consuming the REST API
+   *  `ng g service api`
+   *  import http client
 
